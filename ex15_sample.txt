@@ -1,0 +1,6 @@
+ex15_sample.txt
+This is stuff I typed in to a file.
+It's cool I guess.
+Yeah man.
+
+Type it again brah.
